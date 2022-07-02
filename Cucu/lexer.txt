@@ -1,0 +1,20 @@
+TYPE:int
+ID:cucu_strlrn
+LP:(
+TYPE:char *
+ID:s
+RP:)
+LC:{
+TYPE:int
+ID:i
+ASSIGN:=
+NUM:0
+SEMICOLUMN:;
+WHILE_LOOP:while
+LP:(
+RP:)
+LC:{
+RC:}
+RETURN:return
+NUM:0
+SEMICOLUMN:;
